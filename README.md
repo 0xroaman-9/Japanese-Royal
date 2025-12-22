@@ -80,7 +80,17 @@ python manage.py runserver
 
 
 
+####  Install Frontend Dependencies
 
+Open a new terminal window , and run the following command to install the frontend dependencies:
+
+```bash
+cd frontend
+```
+
+```bash
+npm install
+```
 
 
 
